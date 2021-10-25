@@ -49,8 +49,8 @@ header p {
 
 .image img {
     position: fixed;
-    height: auto;
-    width: auto;
+    height: 100%;
+    width: 50%;
     left: 55%;   
 }
 
